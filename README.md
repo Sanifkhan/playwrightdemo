@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Playwright TypeScript Automation Framework
 
 This project is a QA automation framework built with Playwright and TypeScript for the SauceDemo application. It is structured to be easy to understand, interview-friendly, and maintainable for real-world automation work.
@@ -141,3 +142,6 @@ It installs dependencies, installs browsers, runs the Playwright suite, and publ
 ## Notes
 
 Legacy demo scripts are archived under `tests/legacy/` for learning/reference, while the active automation framework remains under `tests/automation/` so the main suite stays professional and focused.
+=======
+# playwrightdemo
+>>>>>>> a9572b738c43adfa0b1b8bec9b37a6982b313a6a
