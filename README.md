@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Playwright TypeScript Automation Framework
+
 
 This project is a QA automation framework built with Playwright and TypeScript for the SauceDemo application. It is structured to be easy to understand, interview-friendly, and maintainable for real-world automation work.
 
